@@ -1,12 +1,12 @@
 # Site settings
 title: Second Star Labs
 email: rocketeer.captproton@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Second Star Labs successfully provides Agile Ruby on Rails (RoR) Development and Consulting."
 baseurl: ""
 url: "http://www.SecondStarLabs.com"
 twitter_username: captproton
 github_username:  captproton
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
