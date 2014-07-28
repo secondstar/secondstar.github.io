@@ -3,9 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
+<h2 id="tools">Our Tools</h1>
+<div class="pure-g">
+    <div class="pure-u-1-4"><p>Thirds</p></div>
+    <div class="pure-u-1-4"><p>Thirds</p></div>
+    <div class="pure-u-1-4"><p>Thirds</p></div>
+    <div class="pure-u-1-4"><p>Thirds</p></div>
+</div>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<h2 id="services">Our Services</h1>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+<div class="pure-g">
+    <div class="pure-u-1-3"><p>Launch Prep</p></div>
+    <div class="pure-u-1-3"><p>Consulting</p></div>
+    <div class="pure-u-1-3"><p>Project Development</p></div>
+</div>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<a href="/blog">Visit Our Blog</a>
